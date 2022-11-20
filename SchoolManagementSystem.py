@@ -1,11 +1,11 @@
-#ProjectGurukul - Import modules
+
 import tkinter as tk
 from tkinter import ttk
 from tkinter import messagebox
 import pymysql
 
 
-#ProjectGurukul- Initializing window frame
+#Initializing window frame
 window = tk.Tk()
 window.geometry("1350x700")
 window.title("Student Management System by ProjectGurukul")
